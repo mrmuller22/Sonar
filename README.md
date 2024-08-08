@@ -10,7 +10,7 @@ For this project I was tasked to create a embedded program that will control our
 
 **Features:**
 
-The features this project utlized the supplied sonar device, the onboard registers, and the LCD screen. Utlizing C++, I was able to create a low level program that would allow our sonar device to work properly. What makes this program unique is the utlization of the timers to allow our device to work.
+The features this project utlized the supplied sonar device, the onboard registers, and the LCD screen. Utlizing C, I was able to create a low level program that would allow our sonar device to work properly. What makes this program unique is the utlization of the timers to allow our device to work.
 
 The periphals utlized were:
 
@@ -18,7 +18,7 @@ The periphals utlized were:
   * External Sonar Device
   * LCD screen
 
-**Programming Language:** C++
+**Programming Language:** C
 
 **Libraries/Frameworks:** Timer Registers
 
