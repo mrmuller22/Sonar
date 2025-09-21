@@ -12,7 +12,7 @@ For this project I was tasked to create a embedded program that will control our
 
 The features this project utlized the supplied sonar device, the onboard registers, and the LCD screen. Utlizing C, I was able to create a low level program that would allow our sonar device to work properly. What makes this program unique is the utlization of the timers to allow our device to work.
 
-The periphals utlized were:
+The peripherals utlized were:
 
   * Enhance Capture Timer
   * External Sonar Device
